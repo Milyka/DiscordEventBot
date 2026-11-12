@@ -1,22 +1,22 @@
 {
-  "Token": "YOUR_DISCORD_BOT_TOKEN_HERE",
-  "GuildId": 1060286255629344908,
+  "Token": "TOKEN",
+  "GuildId": 0,
   "DatabasePath": "events.db",
   "Event": {
-    "AnchorCategoryId": 1463206062424461547,
-    "LogChannelId": 1568748571770228917,
+    "AnchorCategoryId": 0,
+    "LogChannelId": 0,
     "Roles": {
-      "Male": 1463204419075047606,
-      "Female": 1463204426268540929,
-      "EventMod": 1538176463835103323,
-      "Master": 1538176463835103323,
-      "Curator": 1538176463835103323,
-      "Admingroup": 1538176463835103323,
-      "Mentor": 1538176463835103323,
-      "StaffAdmin": 1538176463835103323,
-      "Developer": 1463204361583722527,
-      "EventBan": 1463204461441843283,
-      "Ping": 1568749136960819210
+      "Male": 0,
+      "Female": 0,
+      "EventMod": 0,
+      "Master": 0,
+      "Curator": 0,
+      "Admingroup": 0,
+      "Mentor": 0,
+      "StaffAdmin": 0,
+      "Developer": 0,
+      "EventBan": 0,
+      "Ping": 0
     },
     "DeveloperUserIds": [],
     "Limits": {
@@ -58,7 +58,7 @@
         "Color": "#2ECC71",
         "MaxParticipants": 10,
         "Description": "Настольная игра на ассоциации и блеф, где один из игроков — Хамелеон, не знающий секретного слова.",
-        "PingRoleId": 1568749136960819210
+        "PingRoleId": 0
       },
       {
         "Id": "puzzles",
@@ -69,7 +69,7 @@
         "Color": "#3498DB",
         "MaxParticipants": 10,
         "Description": "Совместная сборка онлайн-пазлов на скорость или в уютной атмосфере.",
-        "PingRoleId": 1568749136960819210
+        "PingRoleId": 0
       },
       {
         "Id": "uno",
@@ -80,7 +80,7 @@
         "Color": "#E74C3C",
         "MaxParticipants": 10,
         "Description": "Классическая карточная игра Уно. Сбросьте все карты первым и не забудьте крикнуть «Уно!».",
-        "PingRoleId": 1568749136960819210
+        "PingRoleId": 0
       },
       {
         "Id": "mafia",
@@ -91,7 +91,7 @@
         "Color": "#9B59B6",
         "MaxParticipants": 16,
         "Description": "Психологическая пошаговая ролевая игра с детективным сюжетом: мирные жители против мафии.",
-        "PingRoleId": 1568749136960819210
+        "PingRoleId": 0
       },
       {
         "Id": "bunker",
@@ -102,7 +102,7 @@
         "Color": "#E67E22",
         "MaxParticipants": 14,
         "Description": "Дискуссионная ролевая игра на выживание после апокалипсиса. Убедите остальных, что именно вы нужны в бункере!",
-        "PingRoleId": 1568749136960819210
+        "PingRoleId": 0
       },
       {
         "Id": "jackbox",
@@ -113,7 +113,7 @@
         "Color": "#F1C40F",
         "MaxParticipants": 12,
         "Description": "Набор весёлых компанейских викторин и мини-игр Jackbox Party Pack (участие через браузер/телефон).",
-        "PingRoleId": 1568749136960819210
+        "PingRoleId": 0
       },
       {
         "Id": "garticphone",
@@ -124,7 +124,7 @@
         "Color": "#1ABC9C",
         "MaxParticipants": 14,
         "Description": "Испорченный телефон с рисунками! Придумывайте фразы, рисуйте и угадывайте шедевры других участников.",
-        "PingRoleId": 1568749136960819210
+        "PingRoleId": 0
       },
       {
         "Id": "hat",
@@ -135,7 +135,7 @@
         "Color": "#8E44AD",
         "MaxParticipants": 12,
         "Description": "Командная игра на объяснение и отгадывание слов из «шляпы» за ограниченное время.",
-        "PingRoleId": 1568749136960819210
+        "PingRoleId": 0
       },
       {
         "Id": "crocodile",
@@ -146,7 +146,7 @@
         "Color": "#27AE60",
         "MaxParticipants": 12,
         "Description": "Игра на объяснение и угадывание загаданных слов с помощью рисунков или подсказок.",
-        "PingRoleId": 1568749136960819210
+        "PingRoleId": 0
       },
       {
         "Id": "minecraft",
@@ -157,7 +157,7 @@
         "Color": "#2ECC71",
         "MaxParticipants": 20,
         "Description": "Совместное выживание, мини-игры или строительство в мире Minecraft.",
-        "PingRoleId": 1568749136960819210
+        "PingRoleId": 0
       },
       {
         "Id": "amongus",
@@ -168,7 +168,7 @@
         "Color": "#C0392B",
         "MaxParticipants": 15,
         "Description": "Космическая дедуктивная игра: выполняйте задания на корабле и вычислите предателей среди экипажа.",
-        "PingRoleId": 1568749136960819210
+        "PingRoleId": 0
       },
       {
         "Id": "roblox",
@@ -179,7 +179,7 @@
         "Color": "#E74C3C",
         "MaxParticipants": 20,
         "Description": "Совместная игра в популярные режимы и плейсы Roblox.",
-        "PingRoleId": 1568749136960819210
+        "PingRoleId": 0
       },
       {
         "Id": "dnd",
@@ -190,7 +190,7 @@
         "Color": "#D35400",
         "MaxParticipants": 8,
         "Description": "Настольная ролевая игра Dungeons & Dragons: приключения, отыгрыш персонажей и броски кубиков.",
-        "PingRoleId": 1568749136960819210
+        "PingRoleId": 0
       }
     ]
   }
